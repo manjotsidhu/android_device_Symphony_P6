@@ -28,9 +28,9 @@ Camera  | 13mp Rear, 5mp front
 
 # Credits/Thanks to:-
 
-tribetmen
-mehanic6
-manjotsidhu
-StainYY
-SamSanuch
-a7raj
+ * tribetmen
+ * mehanic6
+ * manjotsidhu
+ * StainYY
+ * SamSanuch
+ * a7raj
